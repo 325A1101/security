@@ -1,0 +1,6 @@
+{
+  "name": "サイバーセキュリティ体験シミュレーター (CyberShield Lab)",
+  "description": "パスワード強度検証、フィッシング詐欺メール検知、サイバー攻撃迎撃ミニゲームを通じて実践的なセキュリティリテラシーを体得できる体験型学習シミュレーター。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
